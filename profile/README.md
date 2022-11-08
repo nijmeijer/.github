@@ -1,17 +1,16 @@
-![banner](bleep-bloop.jpg)
+![banner](https://raw.githubusercontent.com/SystemRDL/.github/main/profile/banner.jpg)
 
-# Welcome to SystemRDL!
-Welcome to the SystemRDL open source community space! [^1]
+# Welcome to the SystemRDL open source community!
 
-The goal for this GitHub organization is to build high-quality free and
+The goal of this GitHub organization is to build high-quality free and
 open-source tools for control & status register (CSR) automation, and to
 promote [Accelera's SystemRDL](https://www.accellera.org/downloads/standards/systemrdl)
-as the language of choice for CSR design entry.
+as the language of choice for CSR design entry. [^1]
 
 
 ## PeakRDL Command Line Application
-Don't want to develop any scripts? Here is a ready-to-use command-line tool that
-bundles all of the PeakRDL toolchain together.
+PeakRDL is a command-line application that provides a ready-to-use register
+automation toolchain.
 
 See the [PeakRDL Documentation](http://peakrdl.readthedocs.io) for more details.
 
@@ -23,13 +22,19 @@ a documented API you can use to integrate it into your own custom workflow.
 
 * [PeakRDL-regblock](https://peakrdl-regblock.readthedocs.io) generates synthesizable SystemVerilog RTL.
 * [PeakRDL-html](https://github.com/SystemRDL/PeakRDL-html/blob/main/README.md) produces intuitive and dynamic HTML documentation.
-* [PeakRDL-UVM](https://github.com/SystemRDL/PeakRDL-uvm/blob/main/README.md) generates a UVM register model.
+* [PeakRDL-uvm](https://github.com/SystemRDL/PeakRDL-uvm/blob/main/README.md) generates a UVM register model.
 * [PeakRDL-ipxact](https://peakrdl-ipxact.readthedocs.io) lets you import and export IP-XACT XML.
 
 
 ## SystemRDL language front-end compiler
-Need to build something custom? Use the SystemRDL compiler front-end to handle
-all the heavy-lifting of processing the SystemRDL language.
+Need to build something custom? Don't [invent your own](https://xkcd.com/927/)
+janky input format - Use SystemRDL! The SystemRDL compiler front-end handles all
+the heavy-lifting of processing the SystemRDL language so you don't have to.
+The compiler provides a rich and intuitive Python API that you can use for your
+own custom register automation.
+
+See the [SystemRDL Compiler Documentation](http://systemrdl-compiler.readthedocs.io)
+for more details.
 
 
-[^1]: This SystemRDL GitHub group is not affiliated with Accelera
+[^1]: This SystemRDL GitHub group is not affiliated with Accelera.
