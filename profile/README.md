@@ -4,7 +4,7 @@
 
 The goal of this GitHub organization is to build high-quality free and
 open-source tools for control & status register (CSR) automation, and to
-promote [Accelera's SystemRDL](https://www.accellera.org/downloads/standards/systemrdl)
+promote [Accellera's SystemRDL](https://www.accellera.org/downloads/standards/systemrdl)
 as the language of choice for CSR design entry. [^1]
 
 
@@ -37,4 +37,4 @@ See the [SystemRDL Compiler Documentation](http://systemrdl-compiler.readthedocs
 for more details.
 
 
-[^1]: This SystemRDL GitHub group is not affiliated with Accelera.
+[^1]: This SystemRDL GitHub group is not affiliated with Accellera.
