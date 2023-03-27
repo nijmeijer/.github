@@ -7,6 +7,8 @@ open-source tools for control & status register (CSR) automation, and to
 promote [Accellera's SystemRDL](https://www.accellera.org/downloads/standards/systemrdl)
 as the language of choice for CSR design entry. [^1]
 
+If you are new to SystemRDL, check out [this quick language tutorial](https://peakrdl.readthedocs.io/en/latest/systemrdl-tutorial.html).
+
 
 ## PeakRDL Command Line Application
 PeakRDL is a command-line application that provides a ready-to-use register
@@ -36,6 +38,14 @@ own custom register automation.
 
 See the [SystemRDL Compiler Documentation](http://systemrdl-compiler.readthedocs.io)
 for more details.
+
+
+## How do I use my proprietary register specs with PeakRDL?
+If you are just ramping up the use of SystemRDL and still need to support other
+internal register spec formats, it is pretty easy to create an importer to help
+transition your workflow from non-SystemRDL spec formats.
+
+To learn how this works, check out [the tutorial on PeakRDL importer plugins](https://peakrdl.readthedocs.io/en/latest/for-devs/importer-plugin.html).
 
 
 [^1]: This SystemRDL GitHub group is not affiliated with Accellera.
