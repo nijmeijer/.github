@@ -8,5 +8,3 @@ If you've made your own plugin, feel free to [open a PR to add yours](https://gi
     * Generate a Python Hardware Abstraction Layer
 * [PeakRDL-halcpp](https://github.com/Risto97/PeakRDL-halcpp) by @Risto97
     * Generate a C++ Hardware Abstraction Layer
-* [PeakRDL-Markdown](https://peakrdl-markdown.readthedocs.io) by @MarekPikula
-    * Export to a Markdown document
