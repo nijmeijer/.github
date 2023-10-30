@@ -8,3 +8,11 @@ If you've made your own plugin, feel free to [open a PR to add yours](https://gi
     * Generate a Python Hardware Abstraction Layer
 * [PeakRDL-halcpp](https://github.com/Risto97/PeakRDL-halcpp) by @Risto97
     * Generate a C++ Hardware Abstraction Layer
+* [PeakRDL-euvm](https://github.com/coverify/PeakRDL-euvm)
+    * Generate an eUVM register model
+* [PeakRDL-Markdown](https://github.com/SystemRDL/PeakRDL-Markdown) by @MarekPikula
+    * Generate Markdown documentation
+* [PeakRDL-opentitan](https://github.com/Risto97/PeakRDL-opentitan) by @Risto97
+    * Convert to and from OpenTitan hjson format
+* [PeakRDL-pss](https://github.com/mballance/PeakRDL-pss) by @mballance
+    * Generate PSS (Portable test and Stimulus Standard)
