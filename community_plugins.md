@@ -16,3 +16,5 @@ If you've made your own plugin, feel free to [open a PR to add yours](https://gi
     * Convert to and from OpenTitan hjson format
 * [PeakRDL-pss](https://github.com/mballance/PeakRDL-pss) by @mballance
     * Generate PSS (Portable test and Stimulus Standard)
+* [PeakRDL-docx](https://github.com/nijmeijer/PeakRDL-docx) by @nijmeijer
+    * Generate Docx (MS word) documentation
